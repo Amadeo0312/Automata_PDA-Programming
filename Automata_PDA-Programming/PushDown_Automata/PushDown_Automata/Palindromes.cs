@@ -42,7 +42,6 @@ namespace PushDown_Automata
                 }
             }
 
-
             if (stack.Count == 0)
                 return true;
             else
@@ -53,7 +52,7 @@ namespace PushDown_Automata
         {
             if (stack.Count == 0)
             {
-                Console.WriteLine("Current Stack: Empty");
+                Console.WriteLine("Current Stack: Empty\n");
             }
             else
             {
