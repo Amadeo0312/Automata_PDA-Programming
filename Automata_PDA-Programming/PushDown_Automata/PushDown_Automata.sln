@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushDown_Automata", "PushDown_Automata\PushDown_Automata.csproj", "{1DEC353C-F8DA-431E-A9D5-E224099B8B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DEC353C-F8DA-431E-A9D5-E224099B8B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEC353C-F8DA-431E-A9D5-E224099B8B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEC353C-F8DA-431E-A9D5-E224099B8B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEC353C-F8DA-431E-A9D5-E224099B8B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F06735-DC39-46EE-88BB-6FDFD9E52D1D}
+	EndGlobalSection
+EndGlobal
