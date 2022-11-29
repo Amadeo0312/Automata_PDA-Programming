@@ -48,6 +48,7 @@ namespace PushDown_Automata
                 {
                     Console.WriteLine("Pop failed. Not a Match");
                     Display(stack);
+                    break;
                 }
             }
 

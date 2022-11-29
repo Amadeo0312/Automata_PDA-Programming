@@ -40,6 +40,7 @@ namespace PushDown_Automata
                     {
                         Console.WriteLine("Pop failed. Not a Match");
                         Display(stack);
+                        break;
                     }
                 }
                 else if (stack.Count != 0 && symbols[i] == ']')
@@ -54,6 +55,7 @@ namespace PushDown_Automata
                     {
                         Console.WriteLine("Pop failed. Not a Match");
                         Display(stack);
+                        break;
                     }
                 }
                 else if (stack.Count != 0 && symbols[i] == '}')
@@ -68,6 +70,7 @@ namespace PushDown_Automata
                     {
                         Console.WriteLine("Pop failed. Not a Match");
                         Display(stack);
+                        break;
                     }
                 }
                 // The else statement will catch if ever the string
