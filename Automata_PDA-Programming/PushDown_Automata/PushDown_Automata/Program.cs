@@ -10,10 +10,8 @@ internal class Program
 
         Console.Write("\nEnter a Problem Number: ");
         int prob = Convert.ToInt32(Console.ReadLine());
-
-        Console.Write("\nEnter A String: ");
+        Console.Write("\nEnter a String: ");
         var str = Console.ReadLine();
-
         Console.WriteLine(" ");
 
         switch(prob)
